@@ -17,3 +17,5 @@ Uploaded links will not be removed from `input.txt` file.
 ### Usefull links
 
 https://www.geeksforgeeks.org/pytube-python-library-download-youtube-videos/
+
+https://pytube.io/en/latest/user/streams.html#filtering-streams
